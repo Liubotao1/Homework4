@@ -1,4 +1,5 @@
-运行结果
+运行结果：
+
   ① 超市运行结果
   ![超市](https://user-images.githubusercontent.com/106717015/176110514-06959bf6-7eb5-4d92-b9d2-c2c2c805fd62.png)
   ② List运行结果
